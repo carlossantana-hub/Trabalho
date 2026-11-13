@@ -44,7 +44,7 @@ As principais funções são:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/carlossantana-hub/Trabalho.git
+   https://github.com/carlossantana-hub/Trabalho.git
    ```
 
 2. Acesse a pasta do projeto:
