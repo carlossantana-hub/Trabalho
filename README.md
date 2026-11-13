@@ -49,12 +49,12 @@ As principais funções são:
 
 2. Acesse a pasta do projeto:
    ```bash
-   cd NOME_DA_PASTA
+   cd Trabalho
    ```
 
 3. Compile o código utilizando um compilador C, como o GCC:
    ```bash
-   gcc main.c -o pse_em_acao
+   gcc pse.c -o pse_em_acao
    ```
 
 4. Execute o programa:
